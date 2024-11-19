@@ -1,0 +1,1 @@
+# Destructor-Static-variable-class-method
